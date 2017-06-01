@@ -1,0 +1,9 @@
+{
+  "name": "test-promises",
+  "scripts": {
+    "start": "E:\\xampp\\htdocs\\typescript\\Promises\\PromiseTest.js"
+  },
+  "dependencies": {
+    "@types/es6-promise": "0.0.32"
+  }
+}

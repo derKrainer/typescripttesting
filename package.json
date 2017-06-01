@@ -1,0 +1,13 @@
+{
+  "name": "typescript",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.5.47",
+    "jasmine": "^2.6.0",
+    "jasmine-core": "^2.6.2",
+    "jasmine-ts": "^0.1.2"
+  }
+}

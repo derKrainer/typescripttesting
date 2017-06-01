@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "declaration": true,
+    "outDir": "ts-built",
+    "allowJs": false,
+    "jsx": "react",
+    "lib": ["es6", "dom", "scripthost"]
+    },
+    "include": [
+      "./ts-src/*"
+    ]
+}
